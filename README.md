@@ -1,6 +1,6 @@
 # Dark Fixed Scroll Microproject
 
-A simple scroll animation project inspired by Gabriel Contassot's portfolio website.
+A simple scroll animation project inspired by Gabriel Contassot's portfolio website: https://gabrielcontassot.com/.
 
 ## What it does
 - Uses GSAP ScrollTrigger for smooth scroll-based animation
